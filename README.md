@@ -1,13 +1,9 @@
-Atuando no mercado a mais de 20 anos, com gestão de projetos de TI em empresas como: MWM, COLSON, AGCO, EVORA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), VIVO (Brasil), SANTANDER, JMALUCELLI SEGUROS, GRUPO RBS, BRITISH GAS (Inglaterra), GRENDENE, LOJAS COLOMBO, PROCERGS, YARA FERTILIZANTES, entre outras. 
-- Gerenciamento de projetos de Business Intelligence, Scorecarding, Planejamento Orçamentário, Qualidade de Dados, Auditoria e Data Visualization para grandes corporações. 
-- Experiência em metodologias ágeis como Scrum
-- Habilidade em gestão de equipes com mais de 30 colaboradores diretos, pró-atividade, senso de priorização, visão sistêmica, capacidade de realizar feedbacks e construir PDI, facilidade em análise e solução de problemas
-- Dominio de ferramentas de BI, tais como IBM Cognos Analytics, Amazon QuickSight, Google DataStudio e Microsoft PowerBI
-- Sólidos conhecimentos em modelagem de dados para Analytics (Data Warehouse, Data Lake, Stage Area, etc);
-- Conhecimento em Databricks Delta Lake e Pyspark.
-- Sólidos conhecimentos em bancos de dados, tais como: Oracle, DB2, MySQL, PostgreSQL, MS SQL, entre outros. 
-- Sólidos conhecimento em ferramentas de ETL: IBM DataStage, Microsoft SSIS, Apache HOP, etc.
-- Amplo conhecimento e experiência com Cloud AWS, AWS Lambda, AWS RDS, etc...
+Working for more than 20 years in Data Engineering and Business Intelligence Projects, in companies such as: HSBC, ITAU, BANRISUL, CIA VALE DO RIO DOCE, VALIA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), DIST.IPIRANGA, GRUPO RBS, BRITISH GAS (Inglaterra), AGCO, GRENDENE, PROCERGS.
+
+SUMMARY OF QUALIFICATIONS
+✓ Led of Business Intelligence, Scorecarding, Data Quality, Big Data, Data Audit and Data Visualization projects for large corporations. Responsible for coordinating all project workstreams, using methodologies and management models based on PMBOK, tailored and directed to the organizational context, focusing on the solution and customer needs, providing intelligent and reliable solutions.
+✓ Experience in projects in banking, payroll loans, social security, insurance, telecoms, utilities, retail, automobile industry and government
+✓ Solid knowledge in Data Modeling for Analytics (Data Warehouse and Data Lake) ✓ Skills: Linux and Windows Server; SQL (Oracle, MySQL, DB2, MSSQL, …), IBM DataStage, Informatica POWERCENTER, Microsoft SSIS, AWS (AWS Lambda, AWS RDS, S3, …), Databricks Delta Lake, Pyspark. Python, IBM Cognos Analytics, Amazon QuickSight, Google DataStudio, Microsoft PowerBI
 
 <div align="center">
   <a href="https://github.com/cirograu">
