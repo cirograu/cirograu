@@ -1,4 +1,4 @@
-Working for more than 20 years in Data Engineering and Business Intelligence Projects, in companies such as: HSBC, ITAU, BANRISUL, CIA VALE DO RIO DOCE, VALIA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), DIST.IPIRANGA, GRUPO RBS, BRITISH GAS (Inglaterra), AGCO, GRENDENE, PROCERGS.
+Working for more than 20 years in Data Engineering and Business Intelligence Projects, in companies such as: HSBC, ITAU, BANRISUL, CIA VALE DO RIO DOCE, VALIA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), DIST.IPIRANGA, GRUPO RBS, BRITISH GAS, AGCO, GRENDENE, PROCERGS.
 
 SUMMARY OF QUALIFICATIONS
 ✓ Led of Business Intelligence, Scorecarding, Data Quality, Big Data, Data Audit and Data Visualization projects for large corporations. Responsible for coordinating all project workstreams, using methodologies and management models based on PMBOK, tailored and directed to the organizational context, focusing on the solution and customer needs, providing intelligent and reliable solutions.
