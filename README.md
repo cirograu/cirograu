@@ -6,7 +6,9 @@ SUMMARY OF QUALIFICATIONS
 
 ✓ Experience in projects in banking, payroll loans, social security, insurance, telecoms, utilities, retail, automobile industry and government
 
-✓ Solid knowledge in Data Modeling for Analytics (Data Warehouse and Data Lake) ✓ Skills: Linux and Windows Server; SQL (Oracle, MySQL, DB2, MSSQL, …), IBM DataStage, Informatica POWERCENTER, Microsoft SSIS, AWS (AWS Lambda, AWS RDS, S3, …), Databricks Delta Lake, Pyspark. Python, IBM Cognos Analytics, Amazon QuickSight, Google DataStudio, Microsoft PowerBI
+✓ Solid knowledge in Data Modeling for Analytics (Data Warehouse and Data Lake) 
+
+✓ Skills: Linux and Windows Server; SQL (Oracle, MySQL, DB2, MSSQL, …), IBM DataStage, Informatica POWERCENTER, Microsoft SSIS, APACHE Airflow, AWS (AWS Lambda, AWS RDS, S3, …), Databricks Delta Lake, PySpark, Python, IBM Cognos Analytics, Amazon QuickSight, Google DataStudio, Microsoft PowerBI
 
 <div align="center">
   <a href="https://github.com/cirograu">
