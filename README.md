@@ -1,4 +1,4 @@
-Working for more than 20 years in Data Engineering and Business Intelligence Projects, in companies such as: HSBC, UNIBANCO, BANRISUL, CIA VALE DO RIO DOCE, VALIA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), DIST.IPIRANGA, GRUPO RBS, BRITISH GAS, AGCO, GRENDENE, PROCERGS.
+Working for more than 20 years in Data Engineering and Business Intelligence Projects, in companies such as: SERASA EXPERIAN, HSBC, UNIBANCO, BANRISUL, CIA VALE DO RIO DOCE, VALIA, TELEFÓNICA (México e Colombia), CLARO (Brasil e Colombia), DIST.IPIRANGA, GRUPO RBS, BRITISH GAS, AGCO, GRENDENE, PROCERGS.
 
 SUMMARY OF QUALIFICATIONS
 
